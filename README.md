@@ -1,6 +1,5 @@
-
-- 🔭 Atualmente Trabalhanco como Field nível 2 IBM
-- 🌱 Cursando Ciências da computação UNICSUL
+- 💻  Atualmente Trabalhando como Field nível 2 IBM.
+- 📚  Cursando Ciências da computação UNICSUL.
 
 ##
 
