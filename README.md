@@ -2,7 +2,8 @@
   
   ##
   
-- 💻  Atualmente Trabalhando como Field nível 2 IBM.
+- 💻  Atualmente Trabalhando como analista de Transmissão digital.
+- 💻  Ex Field IBM nível 3.
 - 📚  Cursando Ciências da computação UNICSUL.
 
 ##
