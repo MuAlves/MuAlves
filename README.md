@@ -4,7 +4,7 @@
   
 - 💻  Atualmente Trabalhando como analista de Transmissão digital.
 - 💻  Ex Field IBM nível 3.
-- 📚  Cursando Ciências da computação UNICSUL.
+- 📚  Bacharel em Ciências da Computação pela Universidade Cruzeiro do SulL.
 
 ##
 
