@@ -3,8 +3,8 @@
   ##
   
 - 💻  Atualmente Trabalhando como analista de Transmissão digital.
-- 💻  Ex Field IBM nível 3.
 - 📚  Bacharel em Ciências da Computação pela Universidade Cruzeiro do SulL.
+- 💻  https://www.linkedin.com/in/murilo-alves1/
 
 ##
 
